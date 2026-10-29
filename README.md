@@ -83,5 +83,4 @@ N'hésitez pas à me contacter à propos d'ingénierie, de calcul scientifique o
 ---
 
 <div align="center">
-<sub>Fait avec curiosité, mesures et un peu de code.</sub>
 </div>
