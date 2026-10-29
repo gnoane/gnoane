@@ -53,7 +53,7 @@ Contenu prévu :
 
 **Technologies :** C, OCaml, Ada, SQL.
 
-➡️ [Détails du projet](projects/graph-algorithms/README.md)
+➡️ [Détails du projet]([projects/graph-algorithms/README.md](https://github.com/gnoane/portfolio/blob/main/projects/graph-algorithms/README.md))
 
 ## Compétences
 
