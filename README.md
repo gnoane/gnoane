@@ -1,88 +1,88 @@
 <div align="center">
 
-# Hi, I'm Noane 👋
+# Salut, moi c'est Noane 👋
 
-### Engineering student at ENSEEIHT · Digital Sciences (SN)
+### Étudiant ingénieur à l'ENSEEIHT · Sciences du Numérique (SN)
 
-I enjoy understanding how systems work — from physical phenomena to algorithms and software.
+J'aime comprendre le fonctionnement des systèmes, des phénomènes physiques aux algorithmes et aux logiciels.
 
-[Portfolio](#featured-projects) · [Skills](#skills) · [Contact](#contact)
+[Portfolio](#projets-phares) · [Compétences](#compétences) · [Contact](#contact)
 
 </div>
 
 ---
 
-## About me
+## À propos
 
-I'm an engineering student at **ENSEEIHT (Toulouse, France)**, in the **Sciences du Numérique (SN)** programme, after a **CPGE MPI** preparatory class.
+Je suis étudiant ingénieur à l'**ENSEEIHT (Toulouse, France)**, dans la filière **Sciences du Numérique (SN)**, après une classe préparatoire **CPGE MPI**.
 
-My interests sit at the intersection of **physics, modelling, algorithms and software development**. I like projects where theory can be tested, measured or implemented.
+Mes centres d'intérêt se situent à la croisée de la **physique, de la modélisation, de l'algorithmique et du développement logiciel**. J'aime les projets où la théorie peut être testée, mesurée ou implémentée.
 
-- 🔬 **Physics & modelling:** oscillations, acoustics and electromagnetism
-- 💻 **Programming:** C and OCaml; algorithms, graphs, automata and grammars
-- 📊 **Scientific computing:** data analysis, plots and frequency-domain analysis with Python
-- 🌍 **Looking ahead:** engineering projects and internships where I can combine technical depth with practical problem-solving
+- 🔬 **Physique et modélisation :** oscillations, acoustique et électromagnétisme
+- 💻 **Programmation :** C et OCaml ; algorithmes, graphes, automates et grammaires
+- 📊 **Calcul scientifique :** analyse de données, tracés et analyse fréquentielle avec Python
+- 🌍 **Perspectives :** projets d'ingénierie et stages où je pourrai allier profondeur technique et résolution concrète de problèmes
 
-> This portfolio is a work in progress. I only list tools and projects that I can explain and demonstrate.
+> Ce portfolio est en construction. Je n'y présente que des outils et des projets que je peux expliquer et démontrer.
 
-## Featured projects
+## Projets phares
 
-### 🔊 Helmholtz resonator — experimental acoustics
-**CPGE TIPE project · Physics, signal analysis and modelling**
+### 🔊 Résonateur de Helmholtz — acoustique expérimentale
+**Projet de TIPE en CPGE · Physique, analyse du signal et modélisation**
 
-Study of the resonance of air cavities using a loudspeaker, microphone and oscilloscope. The experimental response is compared with a simplified physical model.
+Étude de la résonance de cavités d'air à l'aide d'un haut-parleur, d'un microphone et d'un oscilloscope. La réponse expérimentale est comparée à un modèle physique simplifié.
 
-- Model the air in the neck as an oscillating mass and the air in the cavity as a spring.
-- Analyse measured signals and resonance curves.
-- Use Python for plotting and frequency analysis.
-- Discuss the limits of the model and the difference between theory and experiment.
+- Modéliser l'air du col comme une masse oscillante et l'air de la cavité comme un ressort.
+- Analyser les signaux mesurés et les courbes de résonance.
+- Utiliser Python pour les tracés et l'analyse fréquentielle.
+- Discuter les limites du modèle et l'écart entre théorie et expérience.
 
-**Technologies:** Python, NumPy, Matplotlib, SciPy, experimental measurements.
+**Technologies :** Python, NumPy, Matplotlib, SciPy, mesures expérimentales.
 
-➡️ [Project details](projects/helmholtz-resonator/README.md)
+➡️ [Détails du projet](projects/helmholtz-resonator/README.md)
 
-### 🧩 Graph algorithms, automata and grammars
-**Algorithms · C / OCaml**
+### 🧩 Algorithmes de graphes, automates et grammaires
+**Algorithmique · C / OCaml**
 
-A space for small, well-documented implementations developed during coursework and personal practice.
+Un espace dédié à de petites implémentations bien documentées, développées en cours et lors d'entraînements personnels.
 
-Planned contents:
-- Graph traversal and shortest-path algorithms
-- Automata and language recognition
-- Grammar-related exercises
-- Complexity notes and test cases
+Contenu prévu :
+- Parcours de graphes et algorithmes de plus court chemin
+- Automates et reconnaissance de langages
+- Exercices autour des grammaires
+- Notes de complexité et jeux de tests
 
-**Technologies:** C, OCaml.
+**Technologies :** C, OCaml.
 
-➡️ [Project details](projects/graph-algorithms/README.md)
+➡️ [Détails du projet](projects/graph-algorithms/README.md)
 
-## Skills
+## Compétences
 
-| Area | Current focus |
+| Domaine | Axe actuel |
 |---|---|
-| Programming | C, OCaml |
-| Scientific Python | NumPy, Matplotlib, SciPy |
-| Algorithms | Graphs, automata, grammars |
-| Physics | Oscillations, acoustics, electromagnetism |
-| Tools | Git, GitHub, LaTeX |
+| Programmation | C, OCaml |
+| Python scientifique | NumPy, Matplotlib, SciPy |
+| Algorithmique | Graphes, automates, grammaires |
+| Physique | Oscillations, acoustique, électromagnétisme |
+| Outils | Git, GitHub, LaTeX |
 
-*This list reflects tools and topics I have worked with; it is not a claim of expert-level proficiency.*
+*Cette liste reflète les outils et les sujets que j'ai pratiqués ; elle ne prétend pas à un niveau d'expertise.*
 
-## What I'm working towards
+## Mes objectifs
 
-- Building a stronger portfolio of documented, reproducible engineering projects.
-- Connecting mathematical models to real measurements and code.
-- Developing my skills in digital systems and software engineering.
+- Construire un portfolio plus solide de projets d'ingénierie documentés et reproductibles.
+- Relier modèles mathématiques, mesures réelles et code.
+- Développer mes compétences en systèmes numériques et en génie logiciel.
 
 ## Contact
 
-- **GitHub:** [@gnoane](https://github.com/gnoane)
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/) (profile link to add)
+- **GitHub :** [@gnoane](https://github.com/gnoane)
+- **LinkedIn :** [LinkedIn](https://www.linkedin.com/) (lien du profil à ajouter)
 
-📩 Feel free to reach out about engineering, scientific computing or collaborative projects.
+📩 N'hésite pas à me contacter à propos d'ingénierie, de calcul scientifique ou de projets collaboratifs.
 
 ---
 
 <div align="center">
-<sub>Built with curiosity, measurements and a little bit of code.</sub>
+<sub>Fait avec curiosité, mesures et un peu de code.</sub>
 </div>
