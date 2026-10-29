@@ -6,7 +6,7 @@
 
 Je relie modèles, mesures et données. En recherche d'un **stage en gestion de données**.
 
-[Portfolio](https://gnoane.github.io/portfolio/) · [CV (FR)](https://gnoane.github.io/portfolio/cv/CV_Gauthier_Noane_FR.pdf) · [CV (EN)](https://gnoane.github.io/portfolio/cv/CV_Gauthier_Noane_EN.pdf)
+[Portfolio](https://gnoane.github.io/portfolio/) · [CV (FR)](github.com/gnoane/portfolio/blob/main/cv/CV_Gauthier_Noane_FR.pdf) · [CV (EN)]([https://gnoane.github.io/portfolio/cv/CV_Gauthier_Noane_EN.pdf](https://github.com/gnoane/portfolio/blob/main/cv/CV_Gauthier_Noane_EN.pdf))
 
 </div>
 
