@@ -32,7 +32,10 @@ Je relie modèles, mesures et données. En recherche d'un **stage en gestion de 
 
 ## Projets
 
-- 🔊 **Résonateur de Helmholtz** : étude expérimentale de la résonance acoustique comparée à un modèle simplifié — [détails](https://github.com/gnoane/portfolio/tree/main/projects/helmholtz-resonator)
+- **Résonateur de Helmholtz**: étude expérimentale de la résonance acoustique comparée à un modèle simplifié — [détails](https://github.com/gnoane/portfolio/tree/main/projects/helmholtz-resonator)
+- **grep**: L'objectif était de recoder l'outil grep en Ocaml
+- **Othello**: Programmation d'une stratégie gagnante sur le jeu Othello, en Ocaml
+- **Jeu du Devin**: Programmation d'un jeu du Devin contre l'ordinateur, en Ada
 
 ## Contact
 
