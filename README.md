@@ -14,11 +14,11 @@ Je relie modèles, mesures et données. En recherche d'un **stage en gestion de 
 
 ## À propos
 
-Étudiant à l'**ENSEEIHT (Toulouse INP)** depuis 2026, après une CPGE **MP2I puis MPI** au lycée Descartes de Tours. J'ai été scolarisé en Éthiopie, au Bénin, au Liban, en Italie et aux Émirats arabes unis.
+Étudiant à l'**ENSEEIHT (Toulouse INP)** depuis 2026, après une CPGE **MP2I puis MPI** au lycée Descartes de Tours. J'ai été scolarisé en Éthiopie, en Italie, en France, aux Émirats arabes unis, au Liban et au Bénin.
 
 - 🎯 **Objectif :** un stage en gestion de données, puis un VIE en Scandinavie
 - 🔬 **Projet marquant :** TIPE sur le résonateur de Helmholtz (acoustique expérimentale), mené seul
-- 🤝 **Engagement :** délégué de mon groupe de TD
+- 🤝 **Engagement :** délégué de promo
 - 🧗 **En dehors des cours :** escalade, échecs, jiu-jitsu brésilien
 
 ## Compétences
