@@ -38,7 +38,7 @@ Mes centres d'intérêt se situent principalement dans l'**informatique**, parti
 
 **Technologies :** Python, NumPy, Matplotlib, SciPy, mesures expérimentales.
 
-➡️ [Détails du projet](projects/helmholtz-resonator/README.md)
+➡️ [Détails du projet](https://github.com/gnoane/portfolio/blob/main/projects/helmholtz-resonator/README.md)
 
 ### 🧩 Algorithmes de graphes, automates et grammaires
 **Algorithmique · C / OCaml / Ada**
