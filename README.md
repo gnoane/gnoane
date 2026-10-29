@@ -17,15 +17,15 @@ Je suis étudiant ingénieur à l'**ENSEEIHT (Toulouse, France)**, dans la fili�
 
 Mes centres d'intérêt se situent principalement dans l'**informatique**, particulièrement lorsque cela nécessite de la gestion de données.
 
-- 🔬 **Physique et modélisation :** Éléctromagnétisme, éléctro-cinétisme, thermodynamique, optique, mécanique
-- 💻 **Programmation :** C, OCaml, Ada et SQL ; algorithmes, graphes, automates, grammaires et bases de données
-- 📊 **Calcul scientifique :** analyse de données, tracés et analyse fréquentielle avec Python
-- 🌍 **Perspectives :** projets d'ingénierie et stages où je pourrai allier profondeur technique et résolution concrète de problèmes
+- **Physique et modélisation :** Éléctromagnétisme, éléctro-cinétisme, thermodynamique, optique, mécanique
+- **Programmation :** C, OCaml, Ada et SQL ; algorithmes, graphes, automates, grammaires et bases de données
+- **Calcul scientifique :** analyse de données, tracés et analyse fréquentielle avec Python
+- **Perspectives :** projets d'ingénierie et stages où je pourrai allier profondeur technique et résolution concrète de problèmes
 
 
 ## Projets phares
 
-### 🔊 Résonateur de Helmholtz — acoustique expérimentale
+### Résonateur de Helmholtz — acoustique expérimentale
 **Projet de TIPE en CPGE · Physique, analyse du signal et modélisation**
 
 Étude de la résonance de cavités d'air à l'aide d'un haut-parleur, d'un microphone et d'un oscilloscope. La réponse expérimentale est comparée à un modèle physique simplifié.
@@ -37,9 +37,9 @@ Mes centres d'intérêt se situent principalement dans l'**informatique**, parti
 
 **Technologies :** Python, NumPy, Matplotlib, SciPy, mesures expérimentales.
 
-➡️ [Détails du projet](https://github.com/gnoane/portfolio/blob/main/projects/helmholtz-resonator/README.md)
+[Détails du projet](https://github.com/gnoane/portfolio/blob/main/projects/helmholtz-resonator/README.md)
 
-### 🧩 Algorithmes de graphes, automates et grammaires
+### Algorithmes de graphes, automates et grammaires
 **Algorithmique · C / OCaml / Ada**
 
 Un espace dédié à de petites implémentations bien documentées, développées en cours et lors d'entraînements personnels.
@@ -52,7 +52,7 @@ Contenu prévu :
 
 **Technologies :** C, OCaml, Ada, SQL.
 
-➡️ [Détails du projet](https://github.com/gnoane/portfolio/blob/main/projects/graph-algorithms/README.md)
+[Détails du projet](https://github.com/gnoane/portfolio/blob/main/projects/graph-algorithms/README.md)
 
 ## Compétences
 
@@ -77,7 +77,7 @@ Contenu prévu :
 - **GitHub :** [@gnoane](https://github.com/gnoane)
 - **LinkedIn :** A venir
 
-📩 N'hésitez pas à me contacter à propos d'ingénierie, de calcul scientifique ou de projets collaboratifs.
+N'hésitez pas à me contacter à propos d'ingénierie, de calcul scientifique ou de projets collaboratifs.
 
 ---
 
