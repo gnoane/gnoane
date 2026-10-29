@@ -1,12 +1,12 @@
 <div align="center">
 
-# Bonjour, moi c'est Noane GAUTHIER
+# Gauthier Noane
 
 ### Étudiant ingénieur à l'ENSEEIHT · Sciences du Numérique (SN)
 
-J'aime comprendre le fonctionnement des systèmes, des phénomènes physiques aux algorithmes et aux logiciels.
+Je relie modèles, mesures et données. En recherche d'un **stage en gestion de données**.
 
-[Portfolio](#projets-phares) · [Compétences](#compétences) · [Contact](#contact)
+[Portfolio](https://gnoane.github.io/portfolio/) · [CV (FR)](https://gnoane.github.io/portfolio/cv/CV_Gauthier_Noane_FR.pdf) · [CV (EN)](https://gnoane.github.io/portfolio/cv/CV_Gauthier_Noane_EN.pdf)
 
 </div>
 
@@ -14,73 +14,31 @@ J'aime comprendre le fonctionnement des systèmes, des phénomènes physiques au
 
 ## À propos
 
-Je suis étudiant ingénieur à l'**ENSEEIHT (Toulouse, France)**, dans la filière **Sciences du Numérique (SN)**, après une classe préparatoire **CPGE MPI**.
+Étudiant à l'**ENSEEIHT (Toulouse INP)** depuis 2026, après une CPGE **MP2I puis MPI** au lycée Descartes de Tours. J'ai été scolarisé en Éthiopie, au Bénin, au Liban, en Italie et aux Émirats arabes unis.
 
-Mes centres d'intérêt se situent à la croisée de la **physique, de la modélisation, de l'algorithmique et du développement logiciel**. J'aime les projets où la théorie peut être testée, mesurée ou implémentée.
-
-- **Physique et modélisation :** oscillations, acoustique et électromagnétisme
-- **Programmation :** C et OCaml ; algorithmes, graphes, automates et grammaires
-- **Calcul scientifique :** analyse de données, tracés et analyse fréquentielle avec Python
-- **Perspectives :** projets d'ingénierie et stages où je pourrai allier profondeur technique et résolution concrète de problèmes
-
-> Ce portfolio est en construction. Je n'y présente que des outils et des projets que je peux expliquer et démontrer.
-
-## Projets phares
-
-### Résonateur de Helmholtz — acoustique expérimentale
-**Projet de TIPE en CPGE · Physique, analyse du signal et modélisation**
-
-Étude de la résonance de cavités d'air à l'aide d'un haut-parleur, d'un microphone et d'un oscilloscope. La réponse expérimentale est comparée à un modèle physique simplifié.
-
-- Modéliser l'air du col comme une masse oscillante et l'air de la cavité comme un ressort.
-- Analyser les signaux mesurés et les courbes de résonance.
-- Utiliser Python pour les tracés et l'analyse fréquentielle.
-- Discuter les limites du modèle et l'écart entre théorie et expérience.
-
-**Technologies :** Python, NumPy, Matplotlib, SciPy, mesures expérimentales.
-
-[Détails du projet](projects/helmholtz-resonator/README.md)
-
-### Algorithmes de graphes, automates et grammaires
-**Algorithmique · C / OCaml**
-
-Un espace dédié à de petites implémentations bien documentées, développées en cours et lors d'entraînements personnels.
-
-Contenu prévu :
-- Parcours de graphes et algorithmes de plus court chemin
-- Automates et reconnaissance de langages
-- Exercices autour des grammaires
-- Notes de complexité et jeux de tests
-
-**Technologies :** C, OCaml.
-
-[Détails du projet](projects/graph-algorithms/README.md)
+- 🎯 **Objectif :** un stage en gestion de données, puis un VIE en Scandinavie
+- 🔬 **Projet marquant :** TIPE sur le résonateur de Helmholtz (acoustique expérimentale), mené seul
+- 🤝 **Engagement :** délégué de mon groupe de TD
+- 🧗 **En dehors des cours :** escalade, échecs, jiu-jitsu brésilien
 
 ## Compétences
 
-| Domaine | Axe actuel |
+| Domaine | Outils |
 |---|---|
-| Programmation | C, OCaml |
-| Python scientifique | NumPy, Matplotlib, SciPy |
-| Algorithmique | Graphes, automates, grammaires |
-| Physique | Oscillations, acoustique, électromagnétisme |
-| Outils | Git, GitHub, LaTeX |
+| Programmation | C, OCaml, Ada |
+| Données et calcul | SQL, Matlab |
+| Rédaction scientifique | LaTeX |
+| Langues | Français, anglais (B2), espagnol (A2) |
 
-*Cette liste reflète les outils et les sujets que j'ai pratiqués ; elle ne prétend pas à un niveau d'expertise.*
+## Projets
 
-## Mes objectifs
-
-- Construire un portfolio plus solide de projets d'ingénierie documentés et reproductibles.
-- Relier modèles mathématiques, mesures réelles et code.
-- Développer mes compétences en systèmes numériques et en génie logiciel.
+- 🔊 **Résonateur de Helmholtz** : étude expérimentale de la résonance acoustique comparée à un modèle simplifié — [détails](https://github.com/gnoane/portfolio/tree/main/projects/helmholtz-resonator)
 
 ## Contact
 
-- **GitHub :** [@gnoane](https://github.com/gnoane)
-
-N'hésitez pas à me contacter à propos d'ingénierie, de calcul scientifique ou de projets collaboratifs.
+- 🌐 Portfolio : https://gnoane.github.io/portfolio/
+- 💼 LinkedIn : *(lien à ajouter)*
 
 ---
 
-<div align="center">
-</div>
+<sub>🇬🇧 Engineering student at ENSEEIHT (Digital Sciences), looking for an internship in data management, then a VIE in Scandinavia.</sub>
