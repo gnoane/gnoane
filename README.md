@@ -1,6 +1,7 @@
 <div align="center">
 
-# Bienvenue sur le portfolio de Noane GAUTHIER
+# Bonjour, moi c'est Noane GAUTHIER
+
 ### Étudiant ingénieur à l'ENSEEIHT · Sciences du Numérique (SN)
 
 J'aime comprendre le fonctionnement des systèmes, des phénomènes physiques aux algorithmes et aux logiciels.
@@ -15,13 +16,14 @@ J'aime comprendre le fonctionnement des systèmes, des phénomènes physiques au
 
 Je suis étudiant ingénieur à l'**ENSEEIHT (Toulouse, France)**, dans la filière **Sciences du Numérique (SN)**, après une classe préparatoire **CPGE MPI**.
 
-Mes centres d'intérêt se situent principalement dans l'**informatique**, particulièrement lorsque cela nécessite de la gestion de données.
+Mes centres d'intérêt se situent à la croisée de la **physique, de la modélisation, de l'algorithmique et du développement logiciel**. J'aime les projets où la théorie peut être testée, mesurée ou implémentée.
 
-- **Physique et modélisation :** Éléctromagnétisme, éléctro-cinétisme, thermodynamique, optique, mécanique
-- **Programmation :** C, OCaml, Ada et SQL ; algorithmes, graphes, automates, grammaires et bases de données
+- **Physique et modélisation :** oscillations, acoustique et électromagnétisme
+- **Programmation :** C et OCaml ; algorithmes, graphes, automates et grammaires
 - **Calcul scientifique :** analyse de données, tracés et analyse fréquentielle avec Python
 - **Perspectives :** projets d'ingénierie et stages où je pourrai allier profondeur technique et résolution concrète de problèmes
 
+> Ce portfolio est en construction. Je n'y présente que des outils et des projets que je peux expliquer et démontrer.
 
 ## Projets phares
 
@@ -37,10 +39,10 @@ Mes centres d'intérêt se situent principalement dans l'**informatique**, parti
 
 **Technologies :** Python, NumPy, Matplotlib, SciPy, mesures expérimentales.
 
-[Détails du projet](https://github.com/gnoane/portfolio/blob/main/projects/helmholtz-resonator/README.md)
+[Détails du projet](projects/helmholtz-resonator/README.md)
 
 ### Algorithmes de graphes, automates et grammaires
-**Algorithmique · C / OCaml / Ada**
+**Algorithmique · C / OCaml**
 
 Un espace dédié à de petites implémentations bien documentées, développées en cours et lors d'entraînements personnels.
 
@@ -50,17 +52,17 @@ Contenu prévu :
 - Exercices autour des grammaires
 - Notes de complexité et jeux de tests
 
-**Technologies :** C, OCaml, Ada, SQL.
+**Technologies :** C, OCaml.
 
-[Détails du projet](https://github.com/gnoane/portfolio/blob/main/projects/graph-algorithms/README.md)
+[Détails du projet](projects/graph-algorithms/README.md)
 
 ## Compétences
 
 | Domaine | Axe actuel |
 |---|---|
-| Programmation | C, OCaml, Ada, SQL |
+| Programmation | C, OCaml |
 | Python scientifique | NumPy, Matplotlib, SciPy |
-| Algorithmique | Graphes, automates, grammaires, base de données |
+| Algorithmique | Graphes, automates, grammaires |
 | Physique | Oscillations, acoustique, électromagnétisme |
 | Outils | Git, GitHub, LaTeX |
 
@@ -75,7 +77,6 @@ Contenu prévu :
 ## Contact
 
 - **GitHub :** [@gnoane](https://github.com/gnoane)
-- **LinkedIn :** A venir
 
 N'hésitez pas à me contacter à propos d'ingénierie, de calcul scientifique ou de projets collaboratifs.
 
