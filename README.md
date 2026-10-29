@@ -53,6 +53,7 @@ Contenu prévu :
 
 **Technologies :** C, OCaml, Ada, SQL.
 
+➡️ [Détails du projet](projects/graph-algorithms/README.md)
 
 ## Compétences
 
