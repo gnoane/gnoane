@@ -1,7 +1,6 @@
 <div align="center">
 
-# Salut, moi c'est Noane 👋
-
+# Bienvenue sur le portfolio de Noane GAUTHIER
 ### Étudiant ingénieur à l'ENSEEIHT · Sciences du Numérique (SN)
 
 J'aime comprendre le fonctionnement des systèmes, des phénomènes physiques aux algorithmes et aux logiciels.
