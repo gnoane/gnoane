@@ -77,7 +77,7 @@ Contenu prévu :
 - **GitHub :** [@gnoane](https://github.com/gnoane)
 - **LinkedIn :** A venir
 
-📩 N'hésite pas à me contacter à propos d'ingénierie, de calcul scientifique ou de projets collaboratifs.
+📩 N'hésitez pas à me contacter à propos d'ingénierie, de calcul scientifique ou de projets collaboratifs.
 
 ---
 
